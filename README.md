@@ -1,6 +1,6 @@
 # Restaurant-Management-System
 
-Objective
+#Objective
 The goal of this assignment is to build a simple Restaurant Management System using Python. This system will allow:
 1.	Managing the menu (add, remove, or update items).
 2.	Taking customer orders.
